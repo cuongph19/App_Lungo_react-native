@@ -1,0 +1,157 @@
+{
+  "users": [
+    {
+      "id": "e0f2",
+      "name": "1111",
+      "ngay": "1111"
+    },
+    {
+      "name": "777",
+      "ngay": "777rttt",
+      "id": "a27a"
+    },
+    {
+      "id": "e3c8",
+      "name": "Ể",
+      "ngay": "Đr"
+    }
+  ],
+  "products": [
+    {
+      "name_product": "IPhone 15 Pro Max 256GB",
+      "img_product": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-blue-thumbnew-600x600.jpg",
+      "price_product": 500,
+      "tag_product": "phone",
+      "describe_product": "iPhone 15 Pro Max là một chiếc điện thoại thông minh cao cấp được mong đợi nhất năm 2023. Với nhiều tính năng mới và cải tiến, iPhone 15 Pro Max chắc chắn sẽ là một lựa chọn tuyệt vời cho những người dùng đang tìm kiếm một chiếc điện thoại có hiệu năng mạnh mẽ, camera chất lượng và thiết kế sang trọng.",
+      "id": "11b4"
+    },
+    {
+      "name_product": "IPhone 15 Pro 128GB",
+      "img_product": "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-blue-thumbnew-600x600.jpg",
+      "describe_product": "iPhone 15 Pro là một trong những chiếc điện thoại thông minh được mong đợi nhất năm 2023. Với nhiều tính năng mới và cải tiến, iPhone 15 Pro chắc chắn sẽ là một lựa chọn tuyệt vời cho những người dùng đang tìm kiếm một chiếc điện thoại cao cấp..",
+      "price_product": 700,
+      "tag_product": "phone",
+      "id": "7hsd"
+    },
+    {
+      "name_product": "IPhone 15 Plus 128GB",
+      "img_product": "https://cdn.tgdd.vn/Products/Images/42/303891/iphone-15-plus-xanh-la-128gb-thumb-600x600.jpg",
+      "price_product": 550,
+      "tag_product": "phone",
+      "describe_product": "iPhone 15 Plus thu hút mọi ánh nhìn ngay khi ra mắt nhờ có vẻ ngoài cao cấp, trang bị bộ xử lý mạnh mẽ, cụm camera kép đặc trưng cho khả năng chụp ảnh cực nét cùng màn hình chất lượng cao, để bạn tận hưởng trải nghiệm sử dụng tuyệt vời. ",
+      "id": "mm3c"
+    },
+    {
+      "name_product": "IPhone 15 128GB ",
+      "img_product": "https://cdn.tgdd.vn/Products/Images/42/303891/iphone-15-plus-xanh-la-128gb-thumb-600x600.jpg",
+      "price_product": 3500,
+      "tag_product": "phone",
+      "id": "mq44",
+      "describe_product": "iPhone 15 là mẫu điện thoại cao cấp được Apple cho ra mắt vào tháng 09/2023, máy nhận được nhiều sự chú ý đến từ người dùng khi mang trong mình bộ cấu hình cực khủng, vẻ ngoài thu hút cùng khả năng quay video - chụp ảnh đỉnh cao"
+    },
+    {
+      "name_product": "Apple Vision",
+      "img_product": "https://i.pinimg.com/474x/78/39/75/7839758c41dc1b634f3b7cab3be5aa34.jpg",
+      "price_product": 20000,
+      "tag_product": "khac",
+      "describe_product": "Apple Vision Pro là một loại kính thực tế ảo do công ty Apple phát triển, được công bố vào ngày 5 tháng 6 năm 2023 tại Hội nghị WWDC. Vision Pro dự kiến sẽ có sẵn để mua vào đầu năm 2024. Đây là loại mẫu kính thực tế ảo đầu tiên trong dòng sản phẩm của Apple và cũng là dòng sản phẩm tiêu dùng thứ năm của công ty kể từ dòng sản phẩm HomePod vào năm 2017.[3]",
+      "id": "m4n5"
+    },
+    {
+      "name_product": "Apple Watch",
+      "img_product": "https://i.pinimg.com/474x/00/22/a9/0022a9eb283ba672c92cdc2db32de556.jpg",
+      "price_product": 5000,
+      "tag_product": "khac",
+      "describe_product": "Apple Watch chính là một dòng sản phẩm đồng hồ thông minh do Apple sản xuất. Apple Watch lần đầu tiên được giới thiệu vào ngày 9 tháng 9 năm 2014 và phải đến tháng 4 năm 2015 thì mới được bán chính thức với dòng sản phẩm bao gồm 3 loại Apple Watch là Apple Watch, Apple Watch Sport và Apple Watch Edition.",
+      "id": "na12"
+    },
+    {
+      "name_product": "MacBook",
+      "img_product": "https://i.pinimg.com/474x/61/1f/ce/611fce23521963883f7c4a07b4e730ca.jpg",
+      "price_product": 10000,
+      "tag_product": "laptop",
+      "id": "ck61",
+      "describe_product": "MacBook là dòng máy tính xách tay (laptop) của Apple Inc sản xuất và phát triển. MacBook có đặc trưng là thiết kế sang trọng cùng trải nghiệm mượt mà mà nó đem lại nhờ chạy hệ điều hành macOS – hệ điều hành do chính Apple phát triển. MacBook có 2 dòng sản phẩm chính là MacBook Air và MacBook Pro."
+    },
+    {
+      "name_product": "MacBook1",
+      "img_product": "https://i.pinimg.com/474x/61/1f/ce/611fce23521963883f7c4a07b4e730ca.jpg",
+      "price_product": 10000,
+      "tag_product": "laptop",
+      "id": "ck63",
+      "describe_product": "MacBook là dòng máy tính xách tay (laptop) của Apple Inc sản xuất và phát triển. MacBook có đặc trưng là thiết kế sang trọng cùng trải nghiệm mượt mà mà nó đem lại nhờ chạy hệ điều hành macOS – hệ điều hành do chính Apple phát triển. MacBook có 2 dòng sản phẩm chính là MacBook Air và MacBook Pro."
+    },
+    {
+      "id": "8d8f",
+      "name_product": "Cương",
+      "img_product": "https://i.pinimg.com/474x/7a/35/65/7a35651127cf2340fac12a25791d4bad.jpg",
+      "price_product": "111",
+      "tag_product": "phone",
+      "describe_product": "Aaa"
+    }
+  ],
+  "cart": [
+    {
+      "id": "8a92",
+      "name_user": "Cương",
+      "name_product": "IPhone 15 Plus 128GB",
+      "img_product": "https://cdn.tgdd.vn/Products/Images/42/303891/iphone-15-plus-xanh-la-128gb-thumb-600x600.jpg",
+      "price_product": 550,
+      "quantity": 1,
+      "id_product": "mm3c"
+    }
+  ],
+  "favorite": [
+    {
+      "id": "692e",
+      "name_user": "1",
+      "name_product": "IPhone 15 Pro Max 256GB",
+      "img_product": "https://cdn.tgdd.vn/Products/Images/42/305658/iphone-15-pro-max-blue-thumbnew-600x600.jpg"
+    },
+    {
+      "id": "f19a",
+      "name_user": "Cương",
+      "name_product": "IPhone 15 Pro 128GB",
+      "img_product": "https://cdn.tgdd.vn/Products/Images/42/299033/iphone-15-pro-blue-thumbnew-600x600.jpg"
+    }
+  ],
+  "bill": [
+    {
+      "id": "868a",
+      "name_bill": "IPhone 15 128GB ",
+      "total_bill": 3500,
+      "quantity_bill": 1,
+      "name_user": "Cương",
+      "img_bill": "https://cdn.tgdd.vn/Products/Images/42/303891/iphone-15-plus-xanh-la-128gb-thumb-600x600.jpg"
+    },
+    {
+      "id": "54dc",
+      "name_bill": "IPhone 15 Plus 128GB",
+      "total_bill": 550,
+      "quantity_bill": 1,
+      "name_user": "Cương",
+      "img_bill": "https://cdn.tgdd.vn/Products/Images/42/303891/iphone-15-plus-xanh-la-128gb-thumb-600x600.jpg"
+    }
+  ],
+  "tag": [
+    {
+      "id": "ff1c",
+      "tag_product": "khac"
+    },
+    {
+      "id": "d93c",
+      "tag_product": "phone"
+    },
+    {
+      "tag_product": "laptop",
+      "id": "45d6"
+    }
+  ],
+  "contact": [
+    {
+      "name_customer": "quan",
+      "content": "Bánh hết hạn",
+      "id": "4b28"
+    }
+  ]
+}
